@@ -13,4 +13,4 @@
 - 🌱 I’m currently learning Javasript, Angular
 - 💬 Ask me about **Java, Kotlin, C**
 - 📫 How to reach me: iglesiasmendezoscar@gmail.com
-- 📄 [CV](oscariglesiasmendez.github.io)
+- 📄 [CV](https://oscariglesiasmendez.github.io/)
